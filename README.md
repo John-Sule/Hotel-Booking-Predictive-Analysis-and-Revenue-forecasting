@@ -1,2 +1,3 @@
-# Hotel-Booking-Predictive-Analysis-and-Revenue-forecasting
-Forecasting Success: Leveraging Customer Behavior for Predictive Hotel Booking Patterns &amp; Revenue - Power BI
+# <h1 align="center"> Hotel-Booking-and-Revenue-forecasting---CONNECT-TEL</h1>
+
+
