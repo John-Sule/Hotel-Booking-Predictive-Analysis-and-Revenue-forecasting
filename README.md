@@ -1,3 +1,3 @@
-# <h1 align="center"> Hotel-Booking-and-Revenue-forecasting---CONNECT-TEL</h1>
+# <h1 align="center"> Hotel-Booking-and-Revenue-forecasting---</h1>
 
 
