@@ -1,4 +1,4 @@
-# <h1 align="center"> Hotel-Booking-and-Revenue-forecasting---</h1>
+# <h1 align="center"> Hotel Booking and Revenue forecasting </h1>
 
 Forecasting Success: Leveraging Customer Behavior for Predictive Hotel Booking Patterns & Revenue Analysis.
 
